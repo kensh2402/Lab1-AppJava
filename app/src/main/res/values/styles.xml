@@ -1,0 +1,9 @@
+<resources>
+    <style name="CustomView" parent="Theme.AppCompat">
+        <item name="colorControlActivated"> #D3BCCC</item>
+        <item name="android:textColorPrimary">#0E273C</item>
+    </style>
+    <style name="CustomWeek">
+        <item name="android:textColor"> #0E273C</item>
+    </style>
+</resources>

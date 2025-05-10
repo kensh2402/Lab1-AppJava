@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Lab1KenshinNg" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF5722</item> <!-- Example: Deep Orange -->
+        <item name="colorPrimaryVariant">#E64A19</item> <!-- Darker shade -->
+        <item name="colorSecondary">#4A306D</item> <!-- Accent Color -->
+    </style>
+</resources>

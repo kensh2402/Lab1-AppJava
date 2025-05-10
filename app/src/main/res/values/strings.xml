@@ -1,0 +1,11 @@
+<resources>
+    <!-- Strings del activity numero 1-->
+    <string name="app_name">Laboratorio 1</string>
+    <string name="text_view"> Laboratorio 1</string>
+    <string name="boton">Presióname </string>
+    <string name="checkbox">Confirmar </string>
+    <string name="EditText">Escribe algo aqui.. </string>
+
+    <!-- Strings del activity numero 2-->
+    <string name="btn_2"> Regresar </string>
+</resources>
